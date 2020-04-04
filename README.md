@@ -2,6 +2,6 @@
 
 
 install <br />
-`npm init`
+`npm init`<br />
 run <br />
 `npm start`
