@@ -1,4 +1,4 @@
-# API Athentication & Authorization with json web token in express 
+# API with graphql 
 
 
 install <br />

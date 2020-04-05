@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "apiGraphql",
   "version": "1.0.0",
   "description": "api with graphql and multiple database",
   "main": "app.js",
