@@ -1,0 +1,3241 @@
+[ 
+{ 
+"name":"ATM",
+"code":"10"
+},
+{ 
+"name":"Audio Visual Equipment",
+"code":"11"
+},
+{ 
+"name":"Baby Listening Service",
+"code":"12"
+},
+{ 
+"name":"Babysitting Service",
+"code":"13"
+},
+{ 
+"name":"Badminton",
+"code":"14"
+},
+{ 
+"name":"Bakery",
+"code":"15"
+},
+{ 
+"name":"Ballroom",
+"code":"17"
+},
+{ 
+"name":"Banana",
+"code":"18"
+},
+{ 
+"name":"Banquet",
+"code":"19"
+},
+{ 
+"name":"Bar / Lounge",
+"code":"1a"
+},
+{ 
+"name":"Barbecue / Grill",
+"code":"1b"
+},
+{ 
+"name":"Beach",
+"code":"1c"
+},
+{ 
+"name":"Beach Bar",
+"code":"1d"
+},
+{ 
+"name":"Beachfront",
+"code":"1e"
+},
+{ 
+"name":"Beauty Salon",
+"code":"1f"
+},
+{ 
+"name":"Bidet",
+"code":"20"
+},
+{ 
+"name":"Bingo Hall",
+"code":"21"
+},
+{ 
+"name":"Boating",
+"code":"22"
+},
+{ 
+"name":"Bottled Water",
+"code":"23"
+},
+{ 
+"name":"Bus Station",
+"code":"24"
+},
+{ 
+"name":"Butler Service",
+"code":"25"
+},
+{ 
+"name":"Cable / Satellite Television",
+"code":"26"
+},
+{ 
+"name":"Cafe",
+"code":"27"
+},
+{ 
+"name":"Camp",
+"code":"28"
+},
+{ 
+"name":"Camp Fire",
+"code":"29"
+},
+{ 
+"name":"Canoe",
+"code":"2a"
+},
+{ 
+"name":"Car Parking",
+"code":"2b"
+},
+{ 
+"name":"Car Rental",
+"code":"2c"
+},
+{ 
+"name":"Carpet",
+"code":"2d"
+},
+{ 
+"name":"Catamaran",
+"code":"2e"
+},
+{ 
+"name":"CD Library",
+"code":"2f"
+},
+{ 
+"name":"CD/DVD Player",
+"code":"30"
+},
+{ 
+"name":"Central Heating",
+"code":"31"
+},
+{ 
+"name":"Chapel",
+"code":"32"
+},
+{ 
+"name":"Chess / Board Games",
+"code":"33"
+},
+{ 
+"name":"Child Care Service",
+"code":"34"
+},
+{ 
+"name":"Children Menu",
+"code":"35"
+},
+{ 
+"name":"Cloakroom",
+"code":"36"
+},
+{ 
+"name":"Clock",
+"code":"37"
+},
+{ 
+"name":"Computer Games",
+"code":"39"
+},
+{ 
+"name":"Computer Rental",
+"code":"3a"
+},
+{ 
+"name":"Computer/Fax Hookups",
+"code":"3b"
+},
+{ 
+"name":"Concierge Desk",
+"code":"3c"
+},
+{ 
+"name":"Connecting Rooms",
+"code":"3d"
+},
+{ 
+"name":"Conservatory",
+"code":"3e"
+},
+{ 
+"name":"Courtyard",
+"code":"3f"
+},
+{ 
+"name":"Creche",
+"code":"40"
+},
+{ 
+"name":"Cribs Available",
+"code":"41"
+},
+{ 
+"name":"Cribs on Request",
+"code":"42"
+},
+{ 
+"name":"Cross-Country Skiing",
+"code":"43"
+},
+{ 
+"name":"Darts",
+"code":"44"
+},
+{ 
+"name":"Dining Room",
+"code":"45"
+},
+{ 
+"name":"Direct Dial Telephone",
+"code":"46"
+},
+{ 
+"name":"Disabled Facilities in Public Areas",
+"code":"47"
+},
+{ 
+"name":"Disabled Facilities in Rooms",
+"code":"48"
+},
+{ 
+"name":"Door Bell",
+"code":"49"
+},
+{ 
+"name":"Double Glazed Windows",
+"code":"4a"
+},
+{ 
+"name":"Double Glazing",
+"code":"4b"
+},
+{ 
+"name":"Dry Cleaning",
+"code":"4c"
+},
+{ 
+"name":"DVD Renting",
+"code":"4d"
+},
+{ 
+"name":"Electronic Key",
+"code":"4e"
+},
+{ 
+"name":"Elevator / Lift",
+"code":"4f"
+},
+{ 
+"name":"En-suite Facilities",
+"code":"50"
+},
+{ 
+"name":"Entertainment Activities",
+"code":"51"
+},
+{ 
+"name":"Executive / Club Floor",
+"code":"52"
+},
+{ 
+"name":"Express Check In / Check Out",
+"code":"53"
+},
+{ 
+"name":"Extra Bed/Sofa Bed",
+"code":"54"
+},
+{ 
+"name":"Fan",
+"code":"55"
+},
+{ 
+"name":"Fishing",
+"code":"56"
+},
+{ 
+"name":"Food Court",
+"code":"57"
+},
+{ 
+"name":"Football",
+"code":"58"
+},
+{ 
+"name":"Fridge",
+"code":"59"
+},
+{ 
+"name":"Fruit Basket",
+"code":"5a"
+},
+{ 
+"name":"Full Length Mirror",
+"code":"5b"
+},
+{ 
+"name":"Garden Bar",
+"code":"5c"
+},
+{ 
+"name":"Garden Terrace",
+"code":"5d"
+},
+{ 
+"name":"Goose-Down Duvets",
+"code":"5e"
+},
+{ 
+"name":"Hairdresser",
+"code":"5f"
+},
+{ 
+"name":"Handball",
+"code":"60"
+},
+{ 
+"name":"Health & Safety",
+"code":"61"
+},
+{ 
+"name":"Health Club",
+"code":"62"
+},
+{ 
+"name":"Hi-Fi / Stereo",
+"code":"63"
+},
+{ 
+"name":"High Chair",
+"code":"64"
+},
+{ 
+"name":"Hiking",
+"code":"65"
+},
+{ 
+"name":"Horse Cart",
+"code":"66"
+},
+{ 
+"name":"Hot Tub",
+"code":"67"
+},
+{ 
+"name":"Ice Machine",
+"code":"68"
+},
+{ 
+"name":"IDD Phone",
+"code":"69"
+},
+{ 
+"name":"In-Room Massage",
+"code":"6a"
+},
+{ 
+"name":"iPod Docking Station",
+"code":"6b"
+},
+{ 
+"name":"iPod Hire",
+"code":"6c"
+},
+{ 
+"name":"Jeep",
+"code":"6f"
+},
+{ 
+"name":"Jet Ski",
+"code":"70"
+},
+{ 
+"name":"Kennel",
+"code":"71"
+},
+{ 
+"name":"Kiosk",
+"code":"72"
+},
+{ 
+"name":"Lake",
+"code":"73"
+},
+{ 
+"name":"Launderette",
+"code":"74"
+},
+{ 
+"name":"Laundry Service",
+"code":"75"
+},
+{ 
+"name":"Library",
+"code":"76"
+},
+{ 
+"name":"Linen",
+"code":"77"
+},
+{ 
+"name":"Lobby Bar",
+"code":"78"
+},
+{ 
+"name":"Lounge",
+"code":"79"
+},
+{ 
+"name":"Marina",
+"code":"7a"
+},
+{ 
+"name":"Market",
+"code":"7b"
+},
+{ 
+"name":"Massage",
+"code":"7c"
+},
+{ 
+"name":"Medical Service",
+"code":"7d"
+},
+{ 
+"name":"Meeting Rooms",
+"code":"7e"
+},
+{ 
+"name":"Microwave",
+"code":"7f"
+},
+{ 
+"name":"Mini Club",
+"code":"80"
+},
+{ 
+"name":"Mini Fridge",
+"code":"81"
+},
+{ 
+"name":"Minibar",
+"code":"82"
+},
+{ 
+"name":"Mirror",
+"code":"83"
+},
+{ 
+"name":"Motor Boat",
+"code":"84"
+},
+{ 
+"name":"Nature Viewing",
+"code":"85"
+},
+{ 
+"name":"Newspapers",
+"code":"86"
+},
+{ 
+"name":"Non-Smoking Hotel",
+"code":"87"
+},
+{ 
+"name":"Non-Smoking Rooms",
+"code":"88"
+},
+{ 
+"name":"Outdoor Activities",
+"code":"89"
+},
+{ 
+"name":"Oven",
+"code":"8a"
+},
+{ 
+"name":"Panoramic Terrace",
+"code":"8b"
+},
+{ 
+"name":"Parachute",
+"code":"8c"
+},
+{ 
+"name":"Park",
+"code":"8d"
+},
+{ 
+"name":"Pedalo",
+"code":"8e"
+},
+{ 
+"name":"Petanque",
+"code":"8f"
+},
+{ 
+"name":"Piano Bar",
+"code":"90"
+},
+{ 
+"name":"Pinball",
+"code":"91"
+},
+{ 
+"name":"Playground",
+"code":"92"
+},
+{ 
+"name":"Porter/Bellhop",
+"code":"94"
+},
+{ 
+"name":"Postal Service",
+"code":"95"
+},
+{ 
+"name":"Pub",
+"code":"96"
+},
+{ 
+"name":"Radio",
+"code":"97"
+},
+{ 
+"name":"Ranches or Forest lodges",
+"code":"98"
+},
+{ 
+"name":"Razor Electrical Socket",
+"code":"99"
+},
+{ 
+"name":"Reading Room",
+"code":"9a"
+},
+{ 
+"name":"Ringo",
+"code":"9b"
+},
+{ 
+"name":"RV/Truck Parking",
+"code":"9c"
+},
+{ 
+"name":"Safety Deposit Box",
+"code":"9e"
+},
+{ 
+"name":"Sauna",
+"code":"9f"
+},
+{ 
+"name":"Self Laundry",
+"code":"a0"
+},
+{ 
+"name":"Shower",
+"code":"a1"
+},
+{ 
+"name":"Shuffleboard",
+"code":"a2"
+},
+{ 
+"name":"Shuttle Service",
+"code":"a3"
+},
+{ 
+"name":"Ski Lift",
+"code":"a4"
+},
+{ 
+"name":"Skiing",
+"code":"a5"
+},
+{ 
+"name":"Smoke Alarm",
+"code":"a6"
+},
+{ 
+"name":"Smoking Rooms",
+"code":"a7"
+},
+{ 
+"name":"Snorkeling",
+"code":"a8"
+},
+{ 
+"name":"Sofa / Lounge",
+"code":"a9"
+},
+{ 
+"name":"Sofa Bed",
+"code":"aa"
+},
+{ 
+"name":"Solarium",
+"code":"ab"
+},
+{ 
+"name":"Soundproof Rooms",
+"code":"ac"
+},
+{ 
+"name":"Soundproofed",
+"code":"ad"
+},
+{ 
+"name":"Souvenirs / Gift Shop",
+"code":"ae"
+},
+{ 
+"name":"Spa",
+"code":"af"
+},
+{ 
+"name":"Speedboat",
+"code":"b0"
+},
+{ 
+"name":"Sprinklers In Rooms",
+"code":"b1"
+},
+{ 
+"name":"Spy hole",
+"code":"b2"
+},
+{ 
+"name":"Steam Bath",
+"code":"b3"
+},
+{ 
+"name":"Sun Deck",
+"code":"b4"
+},
+{ 
+"name":"Sunloungers",
+"code":"b5"
+},
+{ 
+"name":"Surf",
+"code":"b6"
+},
+{ 
+"name":"Synagogue",
+"code":"b7"
+},
+{ 
+"name":"Tailor",
+"code":"b8"
+},
+{ 
+"name":"Thalasso Spa",
+"code":"ba"
+},
+{ 
+"name":"Tour Desk",
+"code":"bb"
+},
+{ 
+"name":"Towel Hire",
+"code":"bc"
+},
+{ 
+"name":"Trouser Press",
+"code":"bd"
+},
+{ 
+"name":"Turkish Bath",
+"code":"be"
+},
+{ 
+"name":"TV Channels",
+"code":"bf"
+},
+{ 
+"name":"TV Hotel Billing System",
+"code":"c0"
+},
+{ 
+"name":"VIP Rooms",
+"code":"c2"
+},
+{ 
+"name":"Video Checkout",
+"code":"c5"
+},
+{ 
+"name":"Voice Mail",
+"code":"c6"
+},
+{ 
+"name":"Volleyball",
+"code":"c7"
+},
+{ 
+"name":"Wake-Up Service",
+"code":"c8"
+},
+{ 
+"name":"Washing Machine",
+"code":"c9"
+},
+{ 
+"name":"Water Aerobics",
+"code":"ca"
+},
+{ 
+"name":"Water Park",
+"code":"cb"
+},
+{ 
+"name":"Water Skiing",
+"code":"cc"
+},
+{ 
+"name":"Water Sports",
+"code":"cd"
+},
+{ 
+"name":"Wedding Services",
+"code":"ce"
+},
+{ 
+"name":"Welcome Basket",
+"code":"cf"
+},
+{ 
+"name":"Wheel Chair Access",
+"code":"d0"
+},
+{ 
+"name":"Wheelchair",
+"code":"d1"
+},
+{ 
+"name":"Whirlpool",
+"code":"d2"
+},
+{ 
+"name":"Helicopter",
+"code":"d5"
+},
+{ 
+"name":"Motorbike",
+"code":"d6"
+},
+{ 
+"name":"Climate Control",
+"code":"df"
+},
+{ 
+"name":"Comfort cooling",
+"code":"e0"
+},
+{ 
+"name":"Complimentary soft drinks",
+"code":"e3"
+},
+{ 
+"name":"Interactive Light Installation",
+"code":"e8"
+},
+{ 
+"name":"Modern artwork",
+"code":"e9"
+},
+{ 
+"name":"Private Entrance",
+"code":"ea"
+},
+{ 
+"name":"Trouser Press - On Request",
+"code":"ec"
+},
+{ 
+"name":"Beach club",
+"code":"ef"
+},
+{ 
+"name":"Fitness Programme",
+"code":"f2"
+},
+{ 
+"name":"Private bathrooms",
+"code":"f3"
+},
+{ 
+"name":"Tanning Studio",
+"code":"f4"
+},
+{ 
+"name":"Treadmills",
+"code":"f5"
+},
+{ 
+"name":"VIP Security",
+"code":"f6"
+},
+{ 
+"name":"WLAN Access Point",
+"code":"f7"
+},
+{ 
+"name":"Paddle",
+"code":"fa"
+},
+{ 
+"name":"Social Meeting Rooms",
+"code":"fb"
+},
+{ 
+"name":"Allergy-friendly Rooms",
+"code":"fe"
+},
+{ 
+"name":"Music Channels",
+"code":"103"
+},
+{ 
+"name":"Teen Club",
+"code":"105"
+},
+{ 
+"name":"Snow sports",
+"code":"106"
+},
+{ 
+"name":"Video Conference",
+"code":"108"
+},
+{ 
+"name":"Ramp access (in room)",
+"code":"10b"
+},
+{ 
+"name":"Limited Time Reception",
+"code":"10c"
+},
+{ 
+"name":"Hearing impaired services",
+"code":"10d"
+},
+{ 
+"name":"Free Ice available",
+"code":"10e"
+},
+{ 
+"name":"Exhibition/convention Facilities",
+"code":"10f"
+},
+{ 
+"name":"Doctor on call",
+"code":"110"
+},
+{ 
+"name":"Beach cabanas (surcharge)",
+"code":"116"
+},
+{ 
+"name":"Beach towels",
+"code":"117"
+},
+{ 
+"name":"Beach/pool umbrellas",
+"code":"118"
+},
+{ 
+"name":"Blackout drapes/curtains",
+"code":"119"
+},
+{ 
+"name":"Business services",
+"code":"120"
+},
+{ 
+"name":"Children's club (surcharge)",
+"code":"122"
+},
+{ 
+"name":"Coffee/tea in lobby",
+"code":"123"
+},
+{ 
+"name":"Complimentary bottled water",
+"code":"124"
+},
+{ 
+"name":"Computer station",
+"code":"12a"
+},
+{ 
+"name":"Cribs/infant beds (surcharge)",
+"code":"12c"
+},
+{ 
+"name":"Cruise terminal shuttle (surcharge)",
+"code":"12e"
+},
+{ 
+"name":"Day bed",
+"code":"12f"
+},
+{ 
+"name":"Designated smoking areas (fines apply)",
+"code":"132"
+},
+{ 
+"name":"Designer toiletries",
+"code":"133"
+},
+{ 
+"name":"Digital TV service",
+"code":"134"
+},
+{ 
+"name":"Espresso maker",
+"code":"136"
+},
+{ 
+"name":"Ferry terminal shuttle (surcharge)",
+"code":"138"
+},
+{ 
+"name":"Free international calls",
+"code":"13a"
+},
+{ 
+"name":"Free local calls",
+"code":"13b"
+},
+{ 
+"name":"Free long-distance calls",
+"code":"13c"
+},
+{ 
+"name":"Furnished lanai",
+"code":"140"
+},
+{ 
+"name":"Hair dryer (on request)",
+"code":"142"
+},
+{ 
+"name":"Housekeeping - once per stay",
+"code":"144"
+},
+{ 
+"name":"Housekeeping - weekdays only",
+"code":"145"
+},
+{ 
+"name":"Housekeeping - weekends only",
+"code":"146"
+},
+{ 
+"name":"Hydromassage showerhead",
+"code":"147"
+},
+{ 
+"name":"iPad",
+"code":"14e"
+},
+{ 
+"name":"Limited housekeeping",
+"code":"153"
+},
+{ 
+"name":"Memory foam mattress",
+"code":"157"
+},
+{ 
+"name":"Microwave (on request)",
+"code":"158"
+},
+{ 
+"name":"Minibar (stocked, some free items)",
+"code":"15a"
+},
+{ 
+"name":"MP3 docking station",
+"code":"15b"
+},
+{ 
+"name":"No cribs (infant beds) available",
+"code":"15c"
+},
+{ 
+"name":"No elevators",
+"code":"15d"
+},
+{ 
+"name":"No rollaway/extra beds available",
+"code":"15e"
+},
+{ 
+"name":"Noise-free rooms not guaranteed",
+"code":"15f"
+},
+{ 
+"name":"Offsite parking reservations required",
+"code":"161"
+},
+{ 
+"name":"Outdoor tennis court",
+"code":"162"
+},
+{ 
+"name":"Parking height restrictions apply",
+"code":"164"
+},
+{ 
+"name":"Partially open bathroom",
+"code":"165"
+},
+{ 
+"name":"Pool cabanas (surcharge)",
+"code":"167"
+},
+{ 
+"name":"Premium bedding",
+"code":"169"
+},
+{ 
+"name":"Premium TV channels",
+"code":"16a"
+},
+{ 
+"name":"Private bathroom (not in room)",
+"code":"16b"
+},
+{ 
+"name":"Rainfall showerhead",
+"code":"16e"
+},
+{ 
+"name":"Rollaway/extra beds available (surcharge)",
+"code":"16f"
+},
+{ 
+"name":"Rooftop terrace",
+"code":"170"
+},
+{ 
+"name":"RV, bus, truck parking (surcharge)",
+"code":"171"
+},
+{ 
+"name":"Second bathroom",
+"code":"173"
+},
+{ 
+"name":"Separate bathtub and shower",
+"code":"175"
+},
+{ 
+"name":"Separate bedroom",
+"code":"176"
+},
+{ 
+"name":"Separate dining area",
+"code":"177"
+},
+{ 
+"name":"Separate living room",
+"code":"178"
+},
+{ 
+"name":"Separate sitting area",
+"code":"179"
+},
+{ 
+"name":"Service animals exempt from fees/restrictions",
+"code":"17a"
+},
+{ 
+"name":"Shared accommodations",
+"code":"17b"
+},
+{ 
+"name":"Shared bathroom with sink in room",
+"code":"17c"
+},
+{ 
+"name":"Sofa bed Queen",
+"code":"17f"
+},
+{ 
+"name":"Spa tub",
+"code":"180"
+},
+{ 
+"name":"Supervised childcare/activities (surcharge)",
+"code":"184"
+},
+{ 
+"name":"Television in lobby",
+"code":"186"
+},
+{ 
+"name":"Water park access (surcharge)",
+"code":"189"
+},
+{ 
+"name":"Yard",
+"code":"18a"
+},
+{ 
+"name":"Some rooms have air conditioning",
+"code":"18d"
+},
+{ 
+"name":"Some rooms have hairdryer",
+"code":"190"
+},
+{ 
+"name":"Some rooms have internet via television",
+"code":"192"
+},
+{ 
+"name":"Some rooms have mini bar",
+"code":"193"
+},
+{ 
+"name":"Some rooms have satellite television",
+"code":"195"
+},
+{ 
+"name":"Some rooms have television",
+"code":"196"
+},
+{ 
+"name":"Some rooms have trouser press",
+"code":"197"
+},
+{ 
+"name":"International Direct Dial Phone",
+"code":"198"
+},
+{ 
+"name":"Honeymoon",
+"code":"19a"
+},
+{ 
+"name":"Swimming pool (chargeable)",
+"code":"19e"
+},
+{ 
+"name":"Sauna (women only)",
+"code":"19f"
+},
+{ 
+"name":"Private beach (chargeable)",
+"code":"1a1"
+},
+{ 
+"name":"Night porter",
+"code":"1a2"
+},
+{ 
+"name":"Bus/tram stop nearby",
+"code":"1a3"
+},
+{ 
+"name":"Braille elevators",
+"code":"1a4"
+},
+{ 
+"name":"Airport - less than 25 Km",
+"code":"1a5"
+},
+{ 
+"name":"Air conditioning (chargeable)",
+"code":"1a6"
+},
+{ 
+"name":"Free Wireless Internet access (inroom)",
+"code":"1a8"
+},
+{ 
+"name":"Vitamin Bar",
+"code":"1ac"
+},
+{ 
+"name":"Steam Bath (Extra Charge)",
+"code":"1b2"
+},
+{ 
+"name":"Snorkeling (Extra Charge)",
+"code":"1b4"
+},
+{ 
+"name":"Shuttle Bus (On Request)",
+"code":"1b5"
+},
+{ 
+"name":"Shower room",
+"code":"1b6"
+},
+{ 
+"name":"Parasailing",
+"code":"1b7"
+},
+{ 
+"name":"Separated by road from beach",
+"code":"1ba"
+},
+{ 
+"name":"Air conditioning (centrally regulated)",
+"code":"1bb"
+},
+{ 
+"name":"Printing services",
+"code":"1be"
+},
+{ 
+"name":"24 hour Concierge",
+"code":"1bf"
+},
+{ 
+"name":"Newsstand",
+"code":"1c1"
+},
+{ 
+"name":"Private Lake",
+"code":"1c3"
+},
+{ 
+"name":"Beachfront Pool",
+"code":"1c5"
+},
+{ 
+"name":"Roof-top swimming pool",
+"code":"1c6"
+},
+{ 
+"name":"In-room Fax Machine",
+"code":"1c7"
+},
+{ 
+"name":"Vanity Area",
+"code":"1c9"
+},
+{ 
+"name":"Projector",
+"code":"1cb"
+},
+{ 
+"name":"Queen-size bed",
+"code":"1cc"
+},
+{ 
+"name":"Superior rooms",
+"code":"1cd"
+},
+{ 
+"name":"Triple rooms",
+"code":"1ce"
+},
+{ 
+"name":"Villas",
+"code":"1cf"
+},
+{ 
+"name":"Ski equipment hire (on site)",
+"code":"1d0"
+},
+{ 
+"name":"Ironing service",
+"code":"1d1"
+},
+{ 
+"name":"Evening entertainment",
+"code":"1d2"
+},
+{ 
+"name":"Packed lunches",
+"code":"1d3"
+},
+{ 
+"name":"Special diet menus (on request)",
+"code":"1d4"
+},
+{ 
+"name":"Vending machine (snacks)",
+"code":"1d5"
+},
+{ 
+"name":"Ticket service",
+"code":"1d6"
+},
+{ 
+"name":"Private check-in/check-out",
+"code":"1d7"
+},
+{ 
+"name":"Lockers",
+"code":"1d8"
+},
+{ 
+"name":"On-site parking",
+"code":"1d9"
+},
+{ 
+"name":"Misc parking",
+"code":"1da"
+},
+{ 
+"name":"Bridal suite",
+"code":"1db"
+},
+{ 
+"name":"Outdoor pool (all year)",
+"code":"1dc"
+},
+{ 
+"name":"Indoor pool (all year)",
+"code":"1dd"
+},
+{ 
+"name":"Bikes available (free)",
+"code":"1df"
+},
+{ 
+"name":"Early Check-in (Chargeable)",
+"code":"1e0"
+},
+{ 
+"name":"Restaurants nearby",
+"code":"1e1"
+},
+{ 
+"name":"WiFi everywhere",
+"code":"1e2"
+},
+{ 
+"name":"Private parking",
+"code":"1e3"
+},
+{ 
+"name":"Bowling",
+"code":"1e4"
+},
+{ 
+"name":"Casino",
+"code":"1e5"
+},
+{ 
+"name":"Children Entertainment",
+"code":"1e6"
+},
+{ 
+"name":"Cinema",
+"code":"1e7"
+},
+{ 
+"name":"Culture Show",
+"code":"1e8"
+},
+{ 
+"name":"Dance Studio",
+"code":"1e9"
+},
+{ 
+"name":"Disco / Night Clubs",
+"code":"1ea"
+},
+{ 
+"name":"Fire Place",
+"code":"1eb"
+},
+{ 
+"name":"Game Room",
+"code":"1ec"
+},
+{ 
+"name":"In Room Movie",
+"code":"1ed"
+},
+{ 
+"name":"Karaoke",
+"code":"1ee"
+},
+{ 
+"name":"Live Entertainment",
+"code":"1ef"
+},
+{ 
+"name":"Mini Golf",
+"code":"1f0"
+},
+{ 
+"name":"Picnic Area",
+"code":"1f1"
+},
+{ 
+"name":"Ranch activities",
+"code":"1f4"
+},
+{ 
+"name":"Theatre",
+"code":"1f5"
+},
+{ 
+"name":"Theatre Desk",
+"code":"1f6"
+},
+{ 
+"name":"TV Room",
+"code":"1f7"
+},
+{ 
+"name":"Whalewatching",
+"code":"1f8"
+},
+{ 
+"name":"Elephant trekking",
+"code":"1f9"
+},
+{ 
+"name":"Table Football",
+"code":"1fa"
+},
+{ 
+"name":"Winery attached",
+"code":"1fb"
+},
+{ 
+"name":"Gala Dinner",
+"code":"1fc"
+},
+{ 
+"name":"Show cooking",
+"code":"1fd"
+},
+{ 
+"name":"Archery",
+"code":"1fe"
+},
+{ 
+"name":"Basketball",
+"code":"1ff"
+},
+{ 
+"name":"Beach Volley",
+"code":"200"
+},
+{ 
+"name":"Bicycle Rentals",
+"code":"201"
+},
+{ 
+"name":"Bicycle Storage",
+"code":"202"
+},
+{ 
+"name":"Bike",
+"code":"203"
+},
+{ 
+"name":"Billiards / Pool Table",
+"code":"204"
+},
+{ 
+"name":"Diving / Scuba Diving",
+"code":"205"
+},
+{ 
+"name":"Fitness Center",
+"code":"206"
+},
+{ 
+"name":"Floodlit Driving Range",
+"code":"207"
+},
+{ 
+"name":"Golf Course",
+"code":"208"
+},
+{ 
+"name":"Gym",
+"code":"209"
+},
+{ 
+"name":"Gymnastic Classes",
+"code":"20a"
+},
+{ 
+"name":"Horse Riding",
+"code":"20b"
+},
+{ 
+"name":"Jogging",
+"code":"20c"
+},
+{ 
+"name":"Kayak",
+"code":"20d"
+},
+{ 
+"name":"Nearby Golf Course",
+"code":"20e"
+},
+{ 
+"name":"Nearby Squash Courts",
+"code":"20f"
+},
+{ 
+"name":"Racquetball Court",
+"code":"210"
+},
+{ 
+"name":"Sport",
+"code":"211"
+},
+{ 
+"name":"Squash",
+"code":"212"
+},
+{ 
+"name":"Table Tennis",
+"code":"213"
+},
+{ 
+"name":"Tennis",
+"code":"214"
+},
+{ 
+"name":"Trekking",
+"code":"215"
+},
+{ 
+"name":"Wind Surfing",
+"code":"216"
+},
+{ 
+"name":"Yoga",
+"code":"217"
+},
+{ 
+"name":"Yoga Mats",
+"code":"218"
+},
+{ 
+"name":"Adventure Sports",
+"code":"21a"
+},
+{ 
+"name":"Personal Trainer available",
+"code":"21b"
+},
+{ 
+"name":"Ski pass vendor",
+"code":"21e"
+},
+{ 
+"name":"Ski storage",
+"code":"21f"
+},
+{ 
+"name":"Indoor tennis court",
+"code":"220"
+},
+{ 
+"name":"Use of nearby fitness center (discount)",
+"code":"222"
+},
+{ 
+"name":"Fitness Centre nearby",
+"code":"223"
+},
+{ 
+"name":"Ballooning",
+"code":"224"
+},
+{ 
+"name":"Water Polo",
+"code":"225"
+},
+{ 
+"name":"Tennis School",
+"code":"226"
+},
+{ 
+"name":"Bocce",
+"code":"227"
+},
+{ 
+"name":"A La Carte Restaurant",
+"code":"228"
+},
+{ 
+"name":"Bar",
+"code":"229"
+},
+{ 
+"name":"Breakfast in Room",
+"code":"22a"
+},
+{ 
+"name":"Breakfast Room",
+"code":"22b"
+},
+{ 
+"name":"Buffet",
+"code":"22c"
+},
+{ 
+"name":"Cafe / Bar",
+"code":"22d"
+},
+{ 
+"name":"Coffee Shop",
+"code":"22e"
+},
+{ 
+"name":"Restaurant",
+"code":"22f"
+},
+{ 
+"name":"Room Service",
+"code":"230"
+},
+{ 
+"name":"Snack Bar",
+"code":"231"
+},
+{ 
+"name":"Tiki Bar",
+"code":"232"
+},
+{ 
+"name":"Continental Breakfast",
+"code":"234"
+},
+{ 
+"name":"Kosher food available",
+"code":"235"
+},
+{ 
+"name":"Halal food available",
+"code":"236"
+},
+{ 
+"name":"Breakfast service",
+"code":"237"
+},
+{ 
+"name":"Terrace bar",
+"code":"23a"
+},
+{ 
+"name":"Extra Meal",
+"code":"23d"
+},
+{ 
+"name":"American Breakfast",
+"code":"23e"
+},
+{ 
+"name":"American Bar",
+"code":"23f"
+},
+{ 
+"name":"Vegetarian Food",
+"code":"240"
+},
+{ 
+"name":"Theme restaurant",
+"code":"241"
+},
+{ 
+"name":"Ski Area",
+"code":"246"
+},
+{ 
+"name":"Train/metro station nearby",
+"code":"247"
+},
+{ 
+"name":"Shop(s) nearby",
+"code":"248"
+},
+{ 
+"name":"Dial-up Internet",
+"code":"249"
+},
+{ 
+"name":"High Speed Internet",
+"code":"24a"
+},
+{ 
+"name":"High-Speed Internet",
+"code":"24b"
+},
+{ 
+"name":"Internet Cafe",
+"code":"24e"
+},
+{ 
+"name":"Internet Corner",
+"code":"24f"
+},
+{ 
+"name":"Mobile Phone Network",
+"code":"250"
+},
+{ 
+"name":"Mobile Phone Rental",
+"code":"251"
+},
+{ 
+"name":"Free Internet access",
+"code":"254"
+},
+{ 
+"name":"Free Wireless Internet access",
+"code":"255"
+},
+{ 
+"name":"Wireless High Speed Internet",
+"code":"256"
+},
+{ 
+"name":"Wooden Floor in Rooms",
+"code":"258"
+},
+{ 
+"name":"Wired high-speed Internet access (surcharge)",
+"code":"25c"
+},
+{ 
+"name":"Internet via television",
+"code":"25d"
+},
+{ 
+"name":"Pets Not Allowed",
+"code":"260"
+},
+{ 
+"name":"Dry Hotel – No alcohol served",
+"code":"261"
+},
+{ 
+"name":"Adults Only",
+"code":"262"
+},
+{ 
+"name":"Caters to men only",
+"code":"263"
+},
+{ 
+"name":"Caters to women only",
+"code":"264"
+},
+{ 
+"name":"Only service dogs are allowed",
+"code":"265"
+},
+{ 
+"name":"Children welcome",
+"code":"26a"
+},
+{ 
+"name":"Large pets allowed (over 5 kg)",
+"code":"26d"
+},
+{ 
+"name":"Parasols",
+"code":"26e"
+},
+{ 
+"name":"Private Beach",
+"code":"26f"
+},
+{ 
+"name":"Beach Nearby",
+"code":"271"
+},
+{ 
+"name":"Wine tasting",
+"code":"272"
+},
+{ 
+"name":"Swimming Pool with Jacuzzi",
+"code":"274"
+},
+{ 
+"name":"Ski school",
+"code":"276"
+},
+{ 
+"name":"Airport Transfer",
+"code":"277"
+},
+{ 
+"name":"Boat Transfer",
+"code":"278"
+},
+{ 
+"name":"Courtesy bus to city centre",
+"code":"279"
+},
+{ 
+"name":"Taxi",
+"code":"27b"
+},
+{ 
+"name":"Free Shuttle Service",
+"code":"27c"
+},
+{ 
+"name":"Pay Shuttle Service",
+"code":"27d"
+},
+{ 
+"name":"Area shuttle (surcharge)",
+"code":"282"
+},
+{ 
+"name":"Beach shuttle (surcharge)",
+"code":"284"
+},
+{ 
+"name":"Casino shuttle (surcharge)",
+"code":"286"
+},
+{ 
+"name":"Shopping center shuttle (surcharge)",
+"code":"288"
+},
+{ 
+"name":"Ski shuttle",
+"code":"289"
+},
+{ 
+"name":"Ski shuttle (complimentary)",
+"code":"28a"
+},
+{ 
+"name":"Ski shuttle (surcharge)",
+"code":"28b"
+},
+{ 
+"name":"Theme park shuttle (surcharge)",
+"code":"28d"
+},
+{ 
+"name":"Train station pickup (surcharge)",
+"code":"28f"
+},
+{ 
+"name":"Airport shuttle (surcharge)",
+"code":"292"
+},
+{ 
+"name":"Business Centre",
+"code":"293"
+},
+{ 
+"name":"Business Facilities",
+"code":"294"
+},
+{ 
+"name":"Conference Facilites",
+"code":"295"
+},
+{ 
+"name":"Conference Hall",
+"code":"296"
+},
+{ 
+"name":"Conference Room",
+"code":"297"
+},
+{ 
+"name":"Fax",
+"code":"298"
+},
+{ 
+"name":"Photocopy",
+"code":"299"
+},
+{ 
+"name":"Secretarial Services",
+"code":"29a"
+},
+{ 
+"name":"Data Port",
+"code":"29b"
+},
+{ 
+"name":"Room service-limited hours",
+"code":"29c"
+},
+{ 
+"name":"Children's Pool",
+"code":"29d"
+},
+{ 
+"name":"Heated Pool",
+"code":"29e"
+},
+{ 
+"name":"Indoor Heated Swimming Pool",
+"code":"29f"
+},
+{ 
+"name":"Indoor Pool",
+"code":"2a0"
+},
+{ 
+"name":"Indoor Water Park",
+"code":"2a1"
+},
+{ 
+"name":"Outdoor Heated Swimming Pool",
+"code":"2a2"
+},
+{ 
+"name":"Outdoor Swimming Pool",
+"code":"2a3"
+},
+{ 
+"name":"Private Pool",
+"code":"2a4"
+},
+{ 
+"name":"Sailing",
+"code":"2a5"
+},
+{ 
+"name":"Salt Water Pool",
+"code":"2a6"
+},
+{ 
+"name":"Swimming Pool",
+"code":"2a7"
+},
+{ 
+"name":"Swimming Pool Nearby",
+"code":"2a8"
+},
+{ 
+"name":"Theme Pool",
+"code":"2a9"
+},
+{ 
+"name":"Waterslide",
+"code":"2aa"
+},
+{ 
+"name":"24 Hour Check-In",
+"code":"2ab"
+},
+{ 
+"name":"24 Hour Front Desk",
+"code":"2ac"
+},
+{ 
+"name":"24 Hour Housekeeping",
+"code":"2ad"
+},
+{ 
+"name":"24 Hour Room Service",
+"code":"2ae"
+},
+{ 
+"name":"Airline Desk",
+"code":"2af"
+},
+{ 
+"name":"Currency Exchange",
+"code":"2b0"
+},
+{ 
+"name":"Flight Information",
+"code":"2b1"
+},
+{ 
+"name":"Group Check In",
+"code":"2b2"
+},
+{ 
+"name":"Housekeeping",
+"code":"2b3"
+},
+{ 
+"name":"Maid Service",
+"code":"2b4"
+},
+{ 
+"name":"Multilingual Staff",
+"code":"2b5"
+},
+{ 
+"name":"Turndown Service",
+"code":"2b6"
+},
+{ 
+"name":"Valet Laundry",
+"code":"2b7"
+},
+{ 
+"name":"Grocery deliveries",
+"code":"2b9"
+},
+{ 
+"name":"Credit Card Accepted",
+"code":"2ba"
+},
+{ 
+"name":"Carte Blanche",
+"code":"2bb"
+},
+{ 
+"name":"Diners Club",
+"code":"2bc"
+},
+{ 
+"name":"Discover",
+"code":"2bd"
+},
+{ 
+"name":"Mastercard",
+"code":"2be"
+},
+{ 
+"name":"Visa",
+"code":"2bf"
+},
+{ 
+"name":"Access",
+"code":"2c0"
+},
+{ 
+"name":"American Express",
+"code":"2c1"
+},
+{ 
+"name":"BP Multicard",
+"code":"2c2"
+},
+{ 
+"name":"Eurocard",
+"code":"2c4"
+},
+{ 
+"name":"JCB Card",
+"code":"2c5"
+},
+{ 
+"name":"Free self parking",
+"code":"2c7"
+},
+{ 
+"name":"Garage",
+"code":"2c8"
+},
+{ 
+"name":"Swim-up bar",
+"code":"2c9"
+},
+{ 
+"name":"Sun terrace",
+"code":"2ca"
+},
+{ 
+"name":"Private garage",
+"code":"2cb"
+},
+{ 
+"name":"Garden",
+"code":"2cc"
+},
+{ 
+"name":"Access via exterior corridors",
+"code":"2cd"
+},
+{ 
+"name":"Waterfall",
+"code":"2ce"
+},
+{ 
+"name":"Annexe (s)",
+"code":"2cf"
+},
+{ 
+"name":"Apartments",
+"code":"2d0"
+},
+{ 
+"name":"Bungalows",
+"code":"2d1"
+},
+{ 
+"name":"Executive rooms",
+"code":"2d2"
+},
+{ 
+"name":"Junior suites",
+"code":"2d3"
+},
+{ 
+"name":"Quadruple rooms",
+"code":"2d4"
+},
+{ 
+"name":"Single rooms",
+"code":"2d5"
+},
+{ 
+"name":"Studios",
+"code":"2d6"
+},
+{ 
+"name":"Suites",
+"code":"2d7"
+},
+{ 
+"name":"TDD Phone",
+"code":"2d8"
+},
+{ 
+"name":"Boutique",
+"code":"2db"
+},
+{ 
+"name":"Duty free shop",
+"code":"2dc"
+},
+{ 
+"name":"Lazy River",
+"code":"2dd"
+},
+{ 
+"name":"Connecting Rooms - Executive",
+"code":"2de"
+},
+{ 
+"name":"Connecting Rooms - Only Twins",
+"code":"2e0"
+},
+{ 
+"name":"Family Rooms",
+"code":"2e1"
+},
+{ 
+"name":"High floor",
+"code":"2e2"
+},
+{ 
+"name":"All day check-in",
+"code":"2e3"
+},
+{ 
+"name":"Sea view",
+"code":"2e4"
+},
+{ 
+"name":"Close to city centre",
+"code":"2e5"
+},
+{ 
+"name":"Shopping Mall/ Area",
+"code":"2e6"
+},
+{ 
+"name":"Air / Water Filtration",
+"code":"2e8"
+},
+{ 
+"name":"Alarm",
+"code":"2ea"
+},
+{ 
+"name":"Alarm Clock",
+"code":"2eb"
+},
+{ 
+"name":"Baby Cot",
+"code":"2ec"
+},
+{ 
+"name":"Bathrobe",
+"code":"2ed"
+},
+{ 
+"name":"Bathroom",
+"code":"2ee"
+},
+{ 
+"name":"Bathtub",
+"code":"2ef"
+},
+{ 
+"name":"Coffee Maker",
+"code":"2f0"
+},
+{ 
+"name":"Cots on Request",
+"code":"2f1"
+},
+{ 
+"name":"Dishwasher",
+"code":"2f2"
+},
+{ 
+"name":"Hairdryer",
+"code":"2f3"
+},
+{ 
+"name":"Hand Held Shower",
+"code":"2f4"
+},
+{ 
+"name":"Iron",
+"code":"2f5"
+},
+{ 
+"name":"Iron & Board",
+"code":"2f6"
+},
+{ 
+"name":"Kitchen",
+"code":"2f7"
+},
+{ 
+"name":"Kitchenette",
+"code":"2f8"
+},
+{ 
+"name":"Shared Bathroom",
+"code":"2f9"
+},
+{ 
+"name":"Shoes Cleaning in Guestroom",
+"code":"2fa"
+},
+{ 
+"name":"Slippers",
+"code":"2fb"
+},
+{ 
+"name":"Tea/Coffee Making Facilities",
+"code":"2fc"
+},
+{ 
+"name":"Telephone",
+"code":"2fd"
+},
+{ 
+"name":"Telephone in Bathroom",
+"code":"2fe"
+},
+{ 
+"name":"Television",
+"code":"2ff"
+},
+{ 
+"name":"Television Pay Movies",
+"code":"300"
+},
+{ 
+"name":"Toiletries",
+"code":"301"
+},
+{ 
+"name":"Triple Glazing",
+"code":"302"
+},
+{ 
+"name":"Video Games",
+"code":"303"
+},
+{ 
+"name":"Widescreen TV",
+"code":"304"
+},
+{ 
+"name":"Writing Desk",
+"code":"305"
+},
+{ 
+"name":"Bathrobe - On Request",
+"code":"306"
+},
+{ 
+"name":"Egyptian Cotton Sheets",
+"code":"308"
+},
+{ 
+"name":"King Koil Mattress",
+"code":"30a"
+},
+{ 
+"name":"Radio in Bathroom",
+"code":"316"
+},
+{ 
+"name":"Bathtub or shower",
+"code":"318"
+},
+{ 
+"name":"Frette Italian sheets",
+"code":"319"
+},
+{ 
+"name":"Pillow menu (Pillow Selection)",
+"code":"31a"
+},
+{ 
+"name":"Shared / communal kitchen",
+"code":"31d"
+},
+{ 
+"name":"Tempur-Pedic mattress",
+"code":"320"
+},
+{ 
+"name":"Shared facilities",
+"code":"321"
+},
+{ 
+"name":"King-size beds",
+"code":"322"
+},
+{ 
+"name":"Wet Bar -inroom",
+"code":"323"
+},
+{ 
+"name":"Disability-friendly bathroom",
+"code":"324"
+},
+{ 
+"name":"Coach Parking",
+"code":"325"
+},
+{ 
+"name":"Valet Parking",
+"code":"326"
+},
+{ 
+"name":"Valet Services",
+"code":"327"
+},
+{ 
+"name":"Pay Parking",
+"code":"328"
+},
+{ 
+"name":"Long term parking",
+"code":"329"
+},
+{ 
+"name":"Free parking nearby",
+"code":"32b"
+},
+{ 
+"name":"Free RV, bus, truck parking",
+"code":"32c"
+},
+{ 
+"name":"Free valet parking",
+"code":"32d"
+},
+{ 
+"name":"Valet parking (surcharge)",
+"code":"32e"
+},
+{ 
+"name":"Guarded parking",
+"code":"330"
+},
+{ 
+"name":"Air Conditioned",
+"code":"335"
+},
+{ 
+"name":"Animation",
+"code":"336"
+},
+{ 
+"name":"Drug Store / Pharmacy",
+"code":"337"
+},
+{ 
+"name":"Florist",
+"code":"338"
+},
+{ 
+"name":"Ironing Rooms",
+"code":"339"
+},
+{ 
+"name":"Luggage Storage",
+"code":"33a"
+},
+{ 
+"name":"Reception Area",
+"code":"33b"
+},
+{ 
+"name":"Security",
+"code":"33c"
+},
+{ 
+"name":"Shoe Shine",
+"code":"33d"
+},
+{ 
+"name":"Shop Arcade",
+"code":"33e"
+},
+{ 
+"name":"Shop(s)",
+"code":"33f"
+},
+{ 
+"name":"Vending Machines",
+"code":"340"
+},
+{ 
+"name":"Barber shop",
+"code":"341"
+},
+{ 
+"name":"Pets Allowed",
+"code":"343"
+},
+{ 
+"name":"Pets Allowed",
+"code":"344"
+},
+{ 
+"name":"Pets allowed - dogs and cats only",
+"code":"345"
+},
+{ 
+"name":"Late check out (surcharge)",
+"code":"346"
+},
+{ 
+"name":"Pets allowed- dogs only",
+"code":"347"
+},
+{ 
+"name":"Small Pets Accepted (on request)",
+"code":"348"
+},
+{ 
+"name":"Pets welcome (conditions & fees apply)",
+"code":"349"
+},
+{ 
+"name":"Designated smoking area",
+"code":"34a"
+},
+{ 
+"name":"Free Cruise terminal shuttle ",
+"code":"34b"
+},
+{ 
+"name":"Free Shopping center shuttle ",
+"code":"34c"
+},
+{ 
+"name":"Free Casino shuttle",
+"code":"34d"
+},
+{ 
+"name":"Mountain bike",
+"code":"34e"
+},
+{ 
+"name":"Free area shuttle",
+"code":"34f"
+},
+{ 
+"name":"Free beach shuttle",
+"code":"350"
+},
+{ 
+"name":"Free ferry terminal shuttle",
+"code":"351"
+},
+{ 
+"name":"Free Train station pickup ",
+"code":"352"
+},
+{ 
+"name":"Free Airport Transportation ",
+"code":"353"
+},
+{ 
+"name":"Limousine service available",
+"code":"354"
+},
+{ 
+"name":"Free Theme park shuttle ",
+"code":"355"
+},
+{ 
+"name":"Bird watching",
+"code":"356"
+},
+{ 
+"name":"Kite Surfing (Kiteboarding)",
+"code":"357"
+},
+{ 
+"name":"Playroom",
+"code":"358"
+},
+{ 
+"name":"Karting Nearby",
+"code":"359"
+},
+{ 
+"name":"Clubhouse",
+"code":"35a"
+},
+{ 
+"name":"Horsehsoe pit",
+"code":"35b"
+},
+{ 
+"name":"Safari",
+"code":"35c"
+},
+{ 
+"name":"ATV tours",
+"code":"35d"
+},
+{ 
+"name":"Wreck Diving",
+"code":"35e"
+},
+{ 
+"name":"Biking Trails",
+"code":"35f"
+},
+{ 
+"name":"Sledding",
+"code":"360"
+},
+{ 
+"name":"Snooker table",
+"code":"361"
+},
+{ 
+"name":"Aerobic / Exercise",
+"code":"362"
+},
+{ 
+"name":"Hunting",
+"code":"363"
+},
+{ 
+"name":"Ice skating",
+"code":"364"
+},
+{ 
+"name":"Mountaineering",
+"code":"365"
+},
+{ 
+"name":"Paragliding",
+"code":"366"
+},
+{ 
+"name":"Horse race nearby",
+"code":"367"
+},
+{ 
+"name":"Zoo nearby",
+"code":"368"
+},
+{ 
+"name":"Water Sports Equipment",
+"code":"369"
+},
+{ 
+"name":"Mini Football court",
+"code":"36a"
+},
+{ 
+"name":"Mini zoo",
+"code":"36b"
+},
+{ 
+"name":"Gondola Ride",
+"code":"36c"
+},
+{ 
+"name":"24 Hour health club",
+"code":"36d"
+},
+{ 
+"name":"Croquet court",
+"code":"36e"
+},
+{ 
+"name":"Ski-to-door access",
+"code":"36f"
+},
+{ 
+"name":"River Rafting",
+"code":"370"
+},
+{ 
+"name":"24 Hour fitness facilities",
+"code":"371"
+},
+{ 
+"name":"Paddle boarding",
+"code":"372"
+},
+{ 
+"name":"Climbing wall",
+"code":"373"
+},
+{ 
+"name":"Use of nearby fitness center (Free)",
+"code":"374"
+},
+{ 
+"name":"Free kids club",
+"code":"375"
+},
+{ 
+"name":"Play Station",
+"code":"376"
+},
+{ 
+"name":"Play Station",
+"code":"377"
+},
+{ 
+"name":"Nintendo Game System",
+"code":"378"
+},
+{ 
+"name":"Soft animation entertainment",
+"code":"379"
+},
+{ 
+"name":"Complimentary reception /cocktail",
+"code":"37a"
+},
+{ 
+"name":"Blue Flag Beach",
+"code":"37b"
+},
+{ 
+"name":"Free Beach cabanas",
+"code":"37c"
+},
+{ 
+"name":"Beach umbrellas",
+"code":"37d"
+},
+{ 
+"name":"Public Beach",
+"code":"37e"
+},
+{ 
+"name":"Wireless Internet - surcharge",
+"code":"37f"
+},
+{ 
+"name":"Dolphin Watching",
+"code":"380"
+},
+{ 
+"name":"Piano",
+"code":"381"
+},
+{ 
+"name":"Theme Park Area",
+"code":"382"
+},
+{ 
+"name":"River",
+"code":"383"
+},
+{ 
+"name":"Elegant Lobby Entrance",
+"code":"384"
+},
+{ 
+"name":"Art collection",
+"code":"385"
+},
+{ 
+"name":"Within national park",
+"code":"386"
+},
+{ 
+"name":"Historical sites",
+"code":"387"
+},
+{ 
+"name":"US & European electric/plug sockets",
+"code":"388"
+},
+{ 
+"name":"Gambling nearby",
+"code":"389"
+},
+{ 
+"name":"Mountain view",
+"code":"38a"
+},
+{ 
+"name":"Botanical garden",
+"code":"38b"
+},
+{ 
+"name":"Lake view",
+"code":"38c"
+},
+{ 
+"name":"Tile floors",
+"code":"38d"
+},
+{ 
+"name":"Financial District",
+"code":"38e"
+},
+{ 
+"name":"Couples",
+"code":"38f"
+},
+{ 
+"name":"Forest",
+"code":"390"
+},
+{ 
+"name":"Hot spring nearby",
+"code":"391"
+},
+{ 
+"name":"Unesco Site Nearby",
+"code":"392"
+},
+{ 
+"name":"City View",
+"code":"393"
+},
+{ 
+"name":"Ocean view",
+"code":"394"
+},
+{ 
+"name":"River view",
+"code":"395"
+},
+{ 
+"name":"Vitamin Bar (Extra Charge)",
+"code":"396"
+},
+{ 
+"name":"24 hour Bar/Cafe",
+"code":"397"
+},
+{ 
+"name":"Romantic Dining",
+"code":"398"
+},
+{ 
+"name":"Asian Restaurant",
+"code":"399"
+},
+{ 
+"name":"Breakfast available (Surcharge)",
+"code":"39a"
+},
+{ 
+"name":"Free American Breakfast",
+"code":"39b"
+},
+{ 
+"name":"Restaurant with air conditioning",
+"code":"39c"
+},
+{ 
+"name":"Breakfast included",
+"code":"39d"
+},
+{ 
+"name":"Organic Food Served",
+"code":"39e"
+},
+{ 
+"name":"Italian Restaurant",
+"code":"39f"
+},
+{ 
+"name":"Local/National Restaurant",
+"code":"3a0"
+},
+{ 
+"name":"Imported Spirits",
+"code":"3a1"
+},
+{ 
+"name":"No Restaurant ",
+"code":"3a2"
+},
+{ 
+"name":"Free Buffet Breakfast",
+"code":"3a3"
+},
+{ 
+"name":"Poolside Bar",
+"code":"3a4"
+},
+{ 
+"name":"Nutrition Counseling",
+"code":"3a5"
+},
+{ 
+"name":"Wine cellar",
+"code":"3a6"
+},
+{ 
+"name":"220 Volt",
+"code":"3a7"
+},
+{ 
+"name":"24 Hour business center",
+"code":"3a8"
+},
+{ 
+"name":"Safe at reception (chargeable)",
+"code":"3a9"
+},
+{ 
+"name":"Wedding Venue",
+"code":"3aa"
+},
+{ 
+"name":"Hammock",
+"code":"3ab"
+},
+{ 
+"name":"Limited Disabled Access",
+"code":"3ac"
+},
+{ 
+"name":"Auditorium",
+"code":"3ad"
+},
+{ 
+"name":"Free On-Site Car parking",
+"code":"3ae"
+},
+{ 
+"name":"Jacuzzi",
+"code":"3af"
+},
+{ 
+"name":"Meeting/Banquet Space",
+"code":"3b0"
+},
+{ 
+"name":"Terrace / Patio",
+"code":"3b1"
+},
+{ 
+"name":"Newsstand & sundry shop",
+"code":"3b2"
+},
+{ 
+"name":"Disability-friendly rooms",
+"code":"3b3"
+},
+{ 
+"name":"220 Volt",
+"code":"3b4"
+},
+{ 
+"name":"Internet Access",
+"code":"3b5"
+},
+{ 
+"name":"Video",
+"code":"3b6"
+},
+{ 
+"name":"Wireless Internet Access",
+"code":"3b7"
+},
+{ 
+"name":"Mosquito net",
+"code":"3b8"
+},
+{ 
+"name":"Computer in room",
+"code":"3b9"
+},
+{ 
+"name":"Fridge (On Request)",
+"code":"3ba"
+},
+{ 
+"name":"Free wired high speed Internet",
+"code":"3bb"
+},
+{ 
+"name":"Individually decorated / furnished",
+"code":"3bc"
+},
+{ 
+"name":"extra long beds (> 2 meters) ",
+"code":"3bd"
+},
+{ 
+"name":"Pillow top mattress",
+"code":"3be"
+},
+{ 
+"name":"Washing Machine (On Request)",
+"code":"3bf"
+},
+{ 
+"name":"Mini Bar (On Request)",
+"code":"3c0"
+},
+{ 
+"name":"Kettle / Boiler",
+"code":"3c1"
+},
+{ 
+"name":"Free minibar",
+"code":"3c2"
+},
+{ 
+"name":"HD TV",
+"code":"3c3"
+},
+{ 
+"name":"Working desk (On Request)",
+"code":"3c4"
+},
+{ 
+"name":"CD/DVD Player (On Request)",
+"code":"3c5"
+},
+{ 
+"name":"Wheelchair adapted rooms (on request)",
+"code":"3c6"
+},
+{ 
+"name":"Bathroom rail",
+"code":"3c7"
+},
+{ 
+"name":"Furnished balcony / patio",
+"code":"3c8"
+},
+{ 
+"name":"In Room Spa (On Request)",
+"code":"3c9"
+},
+{ 
+"name":"In room safe (laptop compatible)",
+"code":"3ca"
+},
+{ 
+"name":"Iron/Ironing Board (On Request)",
+"code":"3cb"
+},
+{ 
+"name":"Interactive / Web TV",
+"code":"3cc"
+},
+{ 
+"name":"Dining table",
+"code":"3cd"
+},
+{ 
+"name":"Wardrobe",
+"code":"3ce"
+},
+{ 
+"name":"Fully equipped kitchen",
+"code":"3cf"
+},
+{ 
+"name":"In room safe",
+"code":"3d0"
+},
+{ 
+"name":"Jacuzzi (Jetted bathtub) inroom",
+"code":"3d1"
+},
+{ 
+"name":"Clothes Hangers",
+"code":"3d2"
+},
+{ 
+"name":"Flat screen TV (LCD, LED or Plasma TV)",
+"code":"3d3"
+},
+{ 
+"name":"Toaster",
+"code":"3d4"
+},
+{ 
+"name":"Lanai / porch",
+"code":"3d5"
+},
+{ 
+"name":"Safe (On Request)",
+"code":"3d6"
+},
+{ 
+"name":"Free cribs/infant beds",
+"code":"3d7"
+},
+{ 
+"name":"Stovetop / hob",
+"code":"3d8"
+},
+{ 
+"name":"Weighing Scale",
+"code":"3d9"
+},
+{ 
+"name":"Blanket",
+"code":"3da"
+},
+{ 
+"name":"Bathtub/Shower Combination",
+"code":"3db"
+},
+{ 
+"name":"In room safe (surcharge)",
+"code":"3dc"
+},
+{ 
+"name":"Fireplace in room",
+"code":"3dd"
+},
+{ 
+"name":"Bath Towels",
+"code":"3de"
+},
+{ 
+"name":"Twin Beds",
+"code":"3df"
+},
+{ 
+"name":"Private balcony / terrace",
+"code":"3e0"
+},
+{ 
+"name":"Cookware, dishware, utensil-cutlery",
+"code":"3e1"
+},
+{ 
+"name":"Spring water bathtub inroom",
+"code":"3e2"
+},
+{ 
+"name":"Air Condition in rooms",
+"code":"3e3"
+},
+{ 
+"name":"Inroom Washer / Dryer",
+"code":"3e4"
+},
+{ 
+"name":"Offsite parking - discounted rates",
+"code":"3e5"
+},
+{ 
+"name":"Limited parking spaces",
+"code":"3e6"
+},
+{ 
+"name":"Free long term parking",
+"code":"3e7"
+},
+{ 
+"name":"Long term parking (surcharge)",
+"code":"3e8"
+},
+{ 
+"name":"Internet Access",
+"code":"3e9"
+},
+{ 
+"name":"Video",
+"code":"3ea"
+},
+{ 
+"name":"Wireless Internet Access",
+"code":"3eb"
+},
+{ 
+"name":"Translation Service",
+"code":"3ec"
+},
+{ 
+"name":"Pet sitting / Pet care",
+"code":"3ed"
+},
+{ 
+"name":"24 hour security",
+"code":"3ee"
+},
+{ 
+"name":"Baby Carriage / Stroller",
+"code":"3ef"
+},
+{ 
+"name":"Private offices",
+"code":"3f0"
+},
+{ 
+"name":"Housekeeping- once a week",
+"code":"3f1"
+},
+{ 
+"name":"Free Newspaper",
+"code":"3f2"
+},
+{ 
+"name":"Film develop",
+"code":"3f3"
+},
+{ 
+"name":"Dry cleaning / laundry service",
+"code":"3f4"
+},
+{ 
+"name":"Free Supervised childcare/activities",
+"code":"3f5"
+},
+{ 
+"name":"Babysitting or child care (surcharge)",
+"code":"3f6"
+},
+{ 
+"name":"Free babysitting or child care",
+"code":"3f7"
+},
+{ 
+"name":"Welcome Drink",
+"code":"3f8"
+},
+{ 
+"name":"Roll Away Bed",
+"code":"3f9"
+},
+{ 
+"name":"In room child care (surcharge)",
+"code":"3fa"
+},
+{ 
+"name":"Free grocery shopping service",
+"code":"3fb"
+},
+{ 
+"name":"Spa / Wellness Center (Extra Charge)",
+"code":"3fc"
+},
+{ 
+"name":"Indoor Pool-Sea water",
+"code":"3fd"
+},
+{ 
+"name":"Aesthetic treatments",
+"code":"3fe"
+},
+{ 
+"name":"Turkish Bath (Extra Charge)",
+"code":"3ff"
+},
+{ 
+"name":"Seasonal indoor pool",
+"code":"400"
+},
+{ 
+"name":"Sunbeds and/or umbrellas",
+"code":"401"
+},
+{ 
+"name":"Seasonal Outdoor Pool",
+"code":"402"
+},
+{ 
+"name":"Full service spa",
+"code":"403"
+},
+{ 
+"name":"Free Pool cabanas",
+"code":"404"
+},
+{ 
+"name":"Heated Indoor Pool (Extra Charge)",
+"code":"405"
+},
+{ 
+"name":"Sun Shade",
+"code":"406"
+},
+{ 
+"name":"Outdoor Pool - Salt Water",
+"code":"407"
+},
+{ 
+"name":"Hydromassage",
+"code":"408"
+},
+{ 
+"name":"Botox Treatment",
+"code":"409"
+},
+{ 
+"name":"Free Water Park Access",
+"code":"40a"
+},
+{ 
+"name":"Acupuncture",
+"code":"40b"
+},
+{ 
+"name":"Swimming float hire",
+"code":"40c"
+},
+{ 
+"name":"En Route card",
+"code":"40d"
+}]
